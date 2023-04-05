@@ -1,0 +1,28 @@
+body{
+	padding:0;
+	margin:0;
+}
+header .container-fluid img{
+    height: 50px;
+    margin-top: 10px;
+}
+.navbar .navbar-nav .nav-link {
+    color:white;
+    padding: 5px;
+    margin:2px 20px;
+}
+.navbar .collapse{
+    padding-left: 40%;  
+}
+.bi{
+    padding:4px;
+}
+#navbarSupportedContent ul li a:hover{
+    color:chartreuse;
+    transition: 0.4s;
+}
+#download{
+    border:2px solid blue;
+    box-shadow: 2px 2px 2px white;
+    
+}
